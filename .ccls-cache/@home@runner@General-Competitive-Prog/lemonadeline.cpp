@@ -10,7 +10,7 @@ int main(){
     ios::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
     freopen("lemonade.in", "r", stdin);
-    freopen("lemonade.out", "w", st)
+    freopen("lemonade.out", "w", stdout);
     int n; cin >> n;
     vector<int>vec(n);
     for (int&i : vec){
